@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                sh "print('dio boe')"
+                sh "python -c \"print('dio boe')\""
             }
         }
     }
