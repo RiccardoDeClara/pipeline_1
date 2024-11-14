@@ -21,3 +21,5 @@ node {
         archiveArtifacts 'target/*.jar'
     }
 }
+
+# just testing a merge request
